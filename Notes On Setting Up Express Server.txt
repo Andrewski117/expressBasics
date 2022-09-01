@@ -1,0 +1,8 @@
+1. Have gitbash with node and npm installed.
+2. Have new directory, inside that directory create a js file. Let's call it index.js for this example. 
+3. inside gitbash, open up that directory and do npm init to initialize npm. 
+4. once that's done, do npm install express to get express running. 
+5. inside the js file you'll need to require express, this is easiest by googling npm express module, it'll show example.
+6. now to run your server, use gitbash in the directory and type node index.js and it'll run. 
+7. if you want your server to be able to refresh without stopping and starting it, use npm to install nodemon. 
+8. nodemon can be initialized after its been installed anywhere, doesnt have to be installed on every project i believe. 98 percent sure. 
